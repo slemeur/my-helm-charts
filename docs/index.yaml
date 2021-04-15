@@ -6,7 +6,7 @@ entries:
     digest: f171d3ea9d575d9931552c8cb2840ab7924d04c6fc23927464e4b7cf3bffc563
     name: mailer-quickstart
     urls:
-    - https:/slemeur.github.io/my-helm-charts/mailer-quickstart-1.0.0.tgz
+    - https://slemeur.github.io/my-helm-charts/mailer-quickstart-1.0.0.tgz
     version: 1.0.0-SNAPSHOT
   mychart:
   - apiVersion: v2
@@ -17,6 +17,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https:/slemeur.github.io/my-helm-charts/mychart-0.1.0.tgz
+    - https://slemeur.github.io/my-helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-04-15T15:57:14.472071+02:00"
