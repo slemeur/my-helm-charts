@@ -1,17 +1,9 @@
 apiVersion: v1
 entries:
-  mailer-quickstart:
-  - apiVersion: v1
-    created: "2021-04-19T16:18:53.913301+02:00"
-    digest: 7b26934371028eda71c004888e00ca670e613528b18a46e07d8fadec0a235d78
-    name: mailer-quickstart
-    urls:
-    - https://slemeur.github.io/my-helm-charts/mailer-quickstart-1.0.0-SNAPSHOT.tgz
-    version: 1.0.0-SNAPSHOT
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-19T16:18:53.914409+02:00"
+    created: "2021-04-20T14:47:54.663891+02:00"
     description: A Helm chart for Kubernetes
     digest: 5ff7abd277bae25e8b0e1f8ebd96839bddc5d659ca020f2e11a2ac87fb27a327
     name: mychart
@@ -19,4 +11,4 @@ entries:
     urls:
     - https://slemeur.github.io/my-helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-19T16:18:53.911266+02:00"
+generated: "2021-04-20T14:47:54.66232+02:00"
